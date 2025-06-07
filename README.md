@@ -10,9 +10,12 @@
 - System functions using C language
 
 ## I'm currently working on : 
-- Java practical works
-- JavaFX practical works
-- OpenGL practical works
+- Java project
+  	- French Media Vigie System
+- JavaFX project
+  	- Recreate a Zelda videogame
+- OpenGL project
+	- Realistic Solar System Simulator
 - System project
 	- Recreate a terminal from scratch using C language
 
